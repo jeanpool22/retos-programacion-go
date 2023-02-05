@@ -5,3 +5,4 @@ En este repositorio se consolidan ejercicios de programación, los cuales están
 - [x] Reto 2 -> Hacker language
 - [x] Reto 3 -> Palindrome
 - [x] Reto 4 -> Adjacent product
+- [x] Reto 5 -> Array consecutive
