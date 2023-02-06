@@ -6,3 +6,4 @@ En este repositorio se consolidan ejercicios de programación, los cuales están
 - [x] Reto 3 -> Palindrome
 - [x] Reto 4 -> Adjacent product
 - [x] Reto 5 -> Array consecutive
+- [x] Reto 6 -> Diagonal difference
